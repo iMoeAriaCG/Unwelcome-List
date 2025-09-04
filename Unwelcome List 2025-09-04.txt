@@ -1,0 +1,10 @@
+||360.cn^$all
+||ijinshan.com^$all
+||baofeng.com^$all
+||ludashi.com^$all
+||ludashicdn.com^$all
+||112.5.41.11^$all
+||duba.net^$all
+||sfdl.360safe.com^$all
+||hgs.cn^$all
+||auntec.cn^$all
